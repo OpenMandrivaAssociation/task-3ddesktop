@@ -16,5 +16,3 @@ This package is a meta-package, meaning that its purpose is to contain
 dependencies for running 3D desktop.
 
 %files
-
-
