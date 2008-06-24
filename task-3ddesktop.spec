@@ -1,8 +1,8 @@
 %define common_packages x11-server-xgl compiz-fusion metisse
 
 Name: task-3ddesktop
-Version: 2008.1
-Release: %mkrel 2
+Version: 2009.0
+Release: %mkrel 1
 Summary: Metapackage for 3D desktop
 Group: System/X11
 License: GPL
@@ -17,7 +17,7 @@ dependencies for running 3D desktop.
 Summary: Metapackage for 3D desktop in KDE environment
 Group: System/X11
 Requires: %{common_packages}
-Requires: compiz-decorator-kde compiz-decorator-gtk
+Requires: compiz-decorator-kde4 compiz-decorator-gtk
 Obsoletes: task-3ddesktop
 
 %description kde
