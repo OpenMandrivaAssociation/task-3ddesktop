@@ -1,7 +1,7 @@
-%define common_packages x11-server-xgl compiz-fusion metisse
+%define common_packages compiz-fusion metisse
 
 Name: task-3ddesktop
-Version: 2009.0
+Version: 2009.1
 Release: %mkrel 1
 Summary: Metapackage for 3D desktop
 Group: System/X11
