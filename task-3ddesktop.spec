@@ -2,7 +2,7 @@
 
 Name: task-3ddesktop
 Version: 2009.1
-Release: %mkrel 2
+Release: %mkrel 3
 Summary: Metapackage for 3D desktop
 Group: System/X11
 License: GPL
