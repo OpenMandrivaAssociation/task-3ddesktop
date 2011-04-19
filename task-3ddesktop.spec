@@ -1,8 +1,8 @@
 %define common_packages compiz-fusion metisse
 
 Name: task-3ddesktop
-Version: 2009.1
-Release: %mkrel 4
+Version: 2011.0
+Release: %mkrel 1
 Summary: Metapackage for 3D desktop
 Group: System/X11
 License: GPL
